@@ -1,4 +1,5 @@
 public class dataTypes {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         // byte: 8-bit integer. Range: -128 to 127. Space: 1 byte.
         byte age = 30;
