@@ -24,14 +24,14 @@ Overall, Java's platform independence, ecosystem maturity, scalability, security
 ## [Guides]
    - [Install Java](/Installing%20Java.md)
    - [How to Run a Java Program ](/How%20to%20Run%20a%20Java%20Program.md)
-   - [Data types in Java](/Data%20Types%20in%20Java%20.md)
-   - [Arrays](/Arrays%20in%20Java.md)
-   - [2D Arrays in java](/2D%20Arrays%20in%20Java.md)
-   - [Strings in Java](/Strings%20in%20Java.md)
-   - [Casting in Java](/Casting%20in%20java.md)
-   - [Operators in Java](/Operators%20in%20Java.md)
-   - [Loops in Java](/Loops%20in%20java%20.md)
-   - [Conditional Statements in Java](/Conditionals%20in%20Java.md)
+   - [Data types in Java](/Basic/Data%20Types%20in%20Java%20.md)
+   - [Arrays](/Basic/Arrays%20in%20Java.md)
+   - [2D Arrays in java](/Basic/2D%20Arrays%20in%20Java.md)
+   - [Strings in Java](/Basic/Strings%20in%20Java.md)
+   - [Casting in Java](/Basic/Casting%20in%20java.md)
+   - [Operators in Java](/Basic/Operators%20in%20Java.md)
+   - [Loops in Java](/Basic/Loops%20in%20java%20.md)
+   - [Conditional Statements in Java](/Basic/Conditionals%20in%20Java.md)
    
 
 
