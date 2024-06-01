@@ -30,7 +30,7 @@ Overall, Java's platform independence, ecosystem maturity, scalability, security
    - [Casting in Java](/Casting%20in%20java.md)
    - [Operators in Java](/Operators%20in%20Java.md)
    - [Loops in Java](/Loops%20in%20java%20.md)
-    - [Conditional Statements in Java](/Conditionals%20in%20Java.md)
+   - [Conditional Statements in Java](/Conditionals%20in%20Java.md)
    
 
 
