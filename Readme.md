@@ -1,4 +1,4 @@
-# Java Basics Repository
+# Java Repository
 
 Welcome to the Java Basics Repository! This repository is designed to help beginners learn the fundamentals of Java programming. Here, you'll find comprehensive guides on various topics, from basic syntax to more advanced concepts. Each guide is crafted to be beginner-friendly and includes detailed explanations and examples.
 
