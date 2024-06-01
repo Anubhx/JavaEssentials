@@ -2,6 +2,20 @@
 
 Welcome to the Java Basics Repository! This repository is designed to help beginners learn the fundamentals of Java programming. Here, you'll find comprehensive guides on various topics, from basic syntax to more advanced concepts. Each guide is crafted to be beginner-friendly and includes detailed explanations and examples.
 
+| Guide | Link |
+|-------|------|
+| Install Java | [Install Java](/Installing%20Java.md) |
+| How to Run a Java Program | [How to Run a Java Program](/How%20to%20Run%20a%20Java%20Program.md) |
+| Data types in Java | [Data types in Java](/Basic/Data%20Types%20in%20Java%20.md) |
+| Arrays | [Arrays](/Basic/Arrays%20in%20Java.md) |
+| 2D Arrays in Java | [2D Arrays in Java](/Basic/2D%20Arrays%20in%20Java.md) |
+| Strings in Java | [Strings in Java](/Basic/Strings%20in%20Java.md) |
+| Casting in Java | [Casting in Java](/Basic/Casting%20in%20java.md) |
+| Operators in Java | [Operators in Java](/Basic/Operators%20in%20Java.md) |
+| Star Patterns | [Star Patterns](/Basic/Star%20Patterns.md) |
+| Loops in Java | [Loops in Java](/Basic/Loops%20in%20java%20.md) |
+| Conditional Statements in Java | [Conditional Statements in Java](/Basic/Conditionals%20in%20Java.md) |
+
 ## Why to choose Java in 2024 . 
 Choosing Java in 2024 offers several advantages:
 
@@ -21,18 +35,7 @@ Choosing Java in 2024 offers several advantages:
 
 Overall, Java's platform independence, ecosystem maturity, scalability, security, and continuous innovation make it a compelling choice for developers and organizations in 2024.
 
-## [Guides]
-   - [Install Java](/Installing%20Java.md)
-   - [How to Run a Java Program ](/How%20to%20Run%20a%20Java%20Program.md)
-   - [Data types in Java](/Basic/Data%20Types%20in%20Java%20.md)
-   - [Arrays](/Basic/Arrays%20in%20Java.md)
-   - [2D Arrays in java](/Basic/2D%20Arrays%20in%20Java.md)
-   - [Strings in Java](/Basic/Strings%20in%20Java.md)
-   - [Casting in Java](/Basic/Casting%20in%20java.md)
-   - [Operators in Java](/Basic/Operators%20in%20Java.md)
-   - [Star Patterns](/Basic/Star%20Patterns.md)
-   - [Loops in Java](/Basic/Loops%20in%20java%20.md)
-   - [Conditional Statements in Java](/Basic/Conditionals%20in%20Java.md)
+
    
 
 
